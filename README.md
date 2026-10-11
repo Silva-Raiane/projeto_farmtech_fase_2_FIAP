@@ -47,7 +47,7 @@ sobre o pH do solo.
 
 ## 2. Esquema de ligações
 
-![Esquema de ligações do circuito](assets/esquema_ligacoes.png)
+![Esquema de ligações do circuito]
 
 > **Substituir/complementar com o print do circuito no Wokwi** — salve a captura como
 > `assets/circuito_wokwi.png` e adicione a linha abaixo:
