@@ -134,7 +134,7 @@ fase2/
 │   └── sketch.ino              # firmware do ESP32 (C/C++)
 ├── assets/
 │   ├── esquema_ligacoes.png    # esquema de ligações
-│   └── circuito_wokwi.png      # print do circuito no Wokwi (adicionar)
+│   └── circuito_wokwi.png      # print do circuito no Wokwi
 ├── diagram.json                # circuito pronto para o Wokwi
 ├── libraries.txt               # bibliotecas usadas
 └── README.md
