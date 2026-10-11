@@ -46,15 +46,8 @@ sobre o pH do solo.
 ---
 
 ## 2. Esquema de ligações
+![Circuito montado no Wokwi](assets/circuito_wokwi.png)
 
-![Esquema de ligações do circuito]
-
-> **Substituir/complementar com o print do circuito no Wokwi** — salve a captura como
-> `assets/circuito_wokwi.png` e adicione a linha abaixo:
->
-> ```markdown
-> ![Circuito montado no Wokwi](assets/circuito_wokwi.png)
-> ```
 
 Ligações, uma a uma:
 
@@ -139,8 +132,6 @@ Ciclo |   N |   P |   K |    pH | Umidade | Bomba | Motivo
 fase2/
 ├── src/
 │   └── sketch.ino              # firmware do ESP32 (C/C++)
-├── ir_alem/
-│   └── monitor_irrigacao.py    # entrega opcional (ver seção 7)
 ├── assets/
 │   ├── esquema_ligacoes.png    # esquema de ligações
 │   └── circuito_wokwi.png      # print do circuito no Wokwi (adicionar)
@@ -171,18 +162,7 @@ fase2/
 
 ---
 
-## 7. Ir Além
-
-A pasta `ir_alem/` traz um monitor em Python que lê a porta serial do ESP32, registra o
-histórico em CSV e consulta a API pública Open-Meteo: se houver previsão de chuva
-relevante nas próximas horas, o script recomenda suspender a irrigação, economizando
-água. Ele reaproveita a integração climática desenvolvida na Fase 1.
-
-> Conferir contra o enunciado oficial dos opcionais 1 e 2 antes da entrega.
-
----
-
-## 8. Vídeo demonstrativo
+## 7. Vídeo demonstrativo
 
 🎥 **Link do YouTube (não listado):** _adicionar aqui_
 
