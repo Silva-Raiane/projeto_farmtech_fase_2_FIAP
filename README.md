@@ -164,11 +164,4 @@ fase2/
 
 ## 7. Vídeo demonstrativo
 
-🎥 **Link do YouTube (não listado):** _adicionar aqui_
-
----
-
-## 9. Autoria
-
-Raiane Sirlene da Silva — RM 575984
-FIAP — Inteligência Artificial — Fase 2
+🎥 **Link do YouTube (não listado):** https://youtu.be/nC74SE7s9io
